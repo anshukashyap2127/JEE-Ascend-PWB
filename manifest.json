@@ -33,5 +33,21 @@
       "url": ".",
       "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
     }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot-dashboard.png",
+      "sizes": "560x701",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Dashboard — today's mission, streak, and revisions due"
+    },
+    {
+      "src": "screenshot-personalize.png",
+      "sizes": "566x677",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Personalize — daily quote, shloka, and habit check-in"
+    }
   ]
 }
